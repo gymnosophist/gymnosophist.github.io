@@ -10,4 +10,4 @@ This site has links to expanded explanations and write-ups for the projects host
 
 Sometimes I post on [Medium](https://medium.com/@gymnosophist) as well, though posts here are pretty similar to the ones there.
 
-Find the complete blog [here](https://github.com/gymnosophist/blogmagog)
+Find the complete blog [here](https://gymnosophist.github.io/blogmagog/)
