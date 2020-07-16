@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Cleaning House"
+date: 2020-07-16 06:01:34 -4000
+categories: CATEGORY-1 CATEGORY-2
+---
+
 # Cleaning data 
 
 I wanted to use this site to host write-ups of projects I've done. 
