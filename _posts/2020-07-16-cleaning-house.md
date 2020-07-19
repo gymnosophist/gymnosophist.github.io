@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Cleaning House"
 date: 2020-07-16 06:01:34 -4000
 categories: CATEGORY-1 CATEGORY-2
